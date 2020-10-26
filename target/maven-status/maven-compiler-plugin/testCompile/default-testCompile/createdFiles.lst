@@ -1,0 +1,6 @@
+baseclass\BaseClass.class
+baseclass\Locators.class
+baseclass\Log.class
+baseclass\RestAPIExecution.class
+runner\TestRunner.class
+stepdefinition\StepDefinition.class
